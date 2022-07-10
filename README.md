@@ -1,4 +1,4 @@
-### Lego ServiceNow forms flow
+## Lego ServiceNow forms flow
 ### Associate Platform Operations Engineer position
 
 # Case
