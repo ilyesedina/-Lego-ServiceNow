@@ -1,6 +1,5 @@
 ## Lego ServiceNow forms flow
 ### Case Study of Data Platform Operations Enablement team
-### Associate Platform Operations Engineer position
 
 # Case
 Your primary task will be to draft a template process for the ServiceNow flow. Furthermore you should draft a template for the forms.
