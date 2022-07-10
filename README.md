@@ -14,3 +14,7 @@ There are 3 kinds of items that can be logged:
 * Service Access Request – Access management
 
 ![](src/img/Requirements.JPG)
+
+### Forms flow
+[Flow chart diagram in draw.io](https://drive.google.com/file/d/1jpb90bWlvEtXh-S46Wm_USDrwOQwK-_I/view?usp=sharing)
+![](src/img/forms-flow.JPG)
