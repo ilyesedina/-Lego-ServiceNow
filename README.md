@@ -15,6 +15,7 @@ There are 3 kinds of items that can be logged:
 
 ![](src/img/Requirements.JPG)
 
+# A solution approach
 ### Forms flow
 [Flow chart diagram in draw.io](https://drive.google.com/file/d/1jpb90bWlvEtXh-S46Wm_USDrwOQwK-_I/view?usp=sharing)
 ![](src/img/forms-flow.JPG)
