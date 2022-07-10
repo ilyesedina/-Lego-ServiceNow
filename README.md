@@ -9,7 +9,7 @@ You are asked to keep the following in mind:
 There are 3 kinds of items that can be logged:
 
 * Incidents
-**  Incidents – something is broken
+  * Incidents – something is broken
 **  Support – user is requesting assistance in usage
 
 * Service Access Request – Access management
