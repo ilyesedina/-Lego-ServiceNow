@@ -1,6 +1,5 @@
-### Lego-ServiceNow
-
-MIT © [The LEGO Group](https://github.com/Webbanditten/interview-case)
+### Lego ServiceNow forms flow
+### Associate Platform Operations Engineer position
 
 # Case
 Your primary task will be to draft a template process for the ServiceNow flow. Furthermore you should draft a template for the forms.
