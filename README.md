@@ -26,8 +26,8 @@ There are 3 kinds of items that can be logged:
 ### Key takeaways
 * Learned about ServiceNow
   * Its purpose
-  * How it should function developer's point of it.
-  * how should the form be set up, it's flow chart as well as getting answers what fields should it incloud and why?
+  * How it should function, developer's point of it.
+  * How should the form be set up, it's flow chart as well as getting answers what fields should it incloud and why?
   * Understanding access permissions and  issue reports
 * The importance of UX design using Figma
 * Planning a workflow  
