@@ -22,3 +22,16 @@ There are 3 kinds of items that can be logged:
 ### Interactive wireframe in [Figma](https://www.figma.com/file/XQwwj1t18GPsMxVKiXLbnt/Untitled?node-id=0%3A1) prioritising user experience.
 
 ![](src/img/figma.JPG)
+
+### Key takeaways
+* Learned about ServiceNow
+  * Its purpose
+  * How it should function developer's point of it.
+  * how should the form be set up, it's flow chart as well as getting answers what fields should it incloud and why?
+  * Understanding access permissions and  issue reports
+* The importance of UX design using Figma
+* Planning a workflow  
+* How to think as part of a big company
+
+
+  
